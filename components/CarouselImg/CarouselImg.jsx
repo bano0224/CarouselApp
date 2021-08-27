@@ -31,7 +31,7 @@ export default function CarouselImg ({item, index}) {
     )
 }
 
-styles = StyleSheet.create({
+const styles = StyleSheet.create({
     text: {
         display:'flex', 
         justifyContent:'center'},
