@@ -1,4 +1,4 @@
-const API_IMG = [
+export const API_IMG = [
     {
         title: "Primer bloque",
         images: [
@@ -33,4 +33,6 @@ const API_IMG = [
     }
 ];
 
-export default API_IMG;
+
+
+

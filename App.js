@@ -8,9 +8,9 @@ const Stack = createStackNavigator();
 const App = () => {
   return (
     <NavigationContainer>
-      <Stack.Navigator>
+      <Stack.Navigator >
         <Stack.Screen
-        name='Home'
+        name='Carousel App'
         component={Home} />
       </Stack.Navigator>
     </NavigationContainer>
